@@ -2,7 +2,8 @@
 @media screen and (max-width:450px) {
     .nav-container,
     .menu-part,
-    .sign-in-container
+    .sign-in-container,
+    .all-cards
     {
         flex-direction: column;
     }

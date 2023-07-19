@@ -166,3 +166,38 @@
 }
 
 /* sign in section styles End here  */
+
+/*  online game section styles starts here  */
+
+.online-game-section {
+    text-align: center;
+}
+
+.section-heading {
+    margin-bottom: 0;
+}
+
+
+.titles {
+    color: #534C64;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.all-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.single-card {
+    width: 250px;
+    text-align: start;
+}
+
+.single-card img {
+    width: 100%;
+}
+
+/*  online game section Ends starts here  */
